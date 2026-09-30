@@ -1,0 +1,5 @@
+out/
+*.class
+telemetry_log.csv
+.idea/
+.vscode/
